@@ -21,10 +21,6 @@ Generative AI Integration — Leveraging AI tools to accelerate development and 
 
 DSA & System Design — Strengthening fundamentals for technical interviews and system scalability
 
-📊 GitHub Analytics
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=3498db&icon_color=2ecc71" alt="GitHub Stats" />	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandermani-web&theme=dark&hide_border=true&background=0d1117&ring=3498db&fire=2ecc71&currStreakLabel=3498db" alt="GitHub Streak" />
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chandermani-web&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -38,5 +34,6 @@ DSA & System Design — Strengthening fundamentals for technical interviews and 
 [![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
