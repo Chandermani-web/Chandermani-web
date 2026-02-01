@@ -17,13 +17,11 @@ Full-Stack Web Developer | Backend-Focused | GenAI Explorer
 
 <br>
 
-I believe **execution beats theory**.  
+<pre align="left">I believe **execution beats theory**.  
 I grow by building, breaking, fixing, and improving real products —  
 that’s how I sharpen my skills and create impactful tech 🚀
-
-<br>
-
-<p align="center">
+</pre>
+<p align="right">
   <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
       width="320"
       alt="Developer illustration" />
