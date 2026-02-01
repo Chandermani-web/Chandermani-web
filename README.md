@@ -8,24 +8,43 @@ Full-Stack Web Developer | Backend-Focused | GenAI Explorer
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
 
-🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
-🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
-👯 Open to **hackathons, full-stack projects & collaboration**  
-🤝 Exploring **system design, scalable backends & AI-powered features**  
-💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
-⚡ I learn by **building real projects — not just tutorials**
+<p align="left">
+  🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
+</p>
 
+<p align="left">
+  🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
+</p>
+
+<p align="left">
+  👯 Open to **hackathons, full-stack projects & collaboration**  
+</p>
+
+<p align="left">
+  🤝 Exploring **system design, scalable backends & AI-powered features**  
+</p>
+
+<p align="left">
+  💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
+</p>
+
+<p align="left">
+  ⚡ I learn by **building real projects — not just tutorials**
+</p>
+
+
+
+<p align="right">
+  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
+      width="320"
+      alt="Developer illustration" />
+</p>
 <br>
 
 <pre align="left">I believe **execution beats theory**.  
 I grow by building, breaking, fixing, and improving real products —  
 that’s how I sharpen my skills and create impactful tech 🚀
 </pre>
-<p align="right">
-  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
-      width="320"
-      alt="Developer illustration" />
-</p>
 
 ## 🌐 Socials:
 
