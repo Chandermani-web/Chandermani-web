@@ -1,17 +1,40 @@
-# 💫 About Me:
-<h3>🚀 Chandermani Mishra</h1>
+# 💫 About Me
 
-Full-Stack Web Developer | Backend-Focused | GenAI Explorer
+<h2 align="left">🚀 Chandermani Mishra</h2>
+
+<strong>Full-Stack Web Developer | Backend-Focused | GenAI Explorer</strong>
+
 <br><br>
-🔭 Building real-world full-stack applications using JavaScript, Node.js & modern web technologies<br>
-🌱 Strengthening DSA fundamentals, backend architecture, and exploring Generative AI for smarter development<br>
-👯 Open to hackathons, full-stack projects & collaborative development<br>
-🤝 Exploring system design, scalable backends, and AI-powered features in web apps<br>
-💬 Ask me about JavaScript, Node.js, APIs, databases, full-stack projects & GenAI workflows<br>
-⚡ I learn by building — real projects over tutorials ⚡<br>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
+🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
+👯 Open to **hackathons, full-stack projects & collaboration**  
+🤝 Exploring **system design, scalable backends & AI-powered features**  
+💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
+⚡ I learn by **building real projects — not just tutorials**
+
 <br>
-I believe execution beats theory. I grow by building, breaking, fixing, and improving real products — that’s how I sharpen my skills and create impactful tech 🚀
-<br>
+
+I believe **execution beats theory**.  
+I grow by building, breaking, fixing, and improving real products —  
+that’s how I sharpen my skills and create impactful tech 🚀
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e"
+     width="220"
+     alt="Developer illustration" />
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Socials:
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chandermani-mishra-a25473304) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chanderman47595) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandermanimishra91@gmail.com)  -->
