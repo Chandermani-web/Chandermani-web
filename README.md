@@ -22,15 +22,9 @@ I grow by building, breaking, fixing, and improving real products —
 that’s how I sharpen my skills and create impactful tech 🚀
 </pre>
 
-<!-- <p align="right">
-  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
-      width="320"
-      alt="Developer illustration" />
-</p> -->
-
 ## 🌐 Socials:
 
-<div align="left">
+<div align="center">
   <!-- LinkedIn -->
   <a href="http://www.linkedin.com/in/chandermani-mishra-a25473304" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
