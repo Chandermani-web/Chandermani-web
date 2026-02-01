@@ -14,7 +14,40 @@ I believe execution beats theory. I grow by building, breaking, fixing, and impr
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chandermani-mishra-a25473304) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chanderman47595) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandermanimishra91@gmail.com) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chandermani-mishra-a25473304) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chanderman47595) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandermanimishra91@gmail.com)  -->
+
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="http://www.linkedin.com/in/chandermani-mishra-a25473304" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/Chandermani47595" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+         width="52" height="40" alt="twitter logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:chandermanimishra91@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/chandermani234/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+         width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/918607653657" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
+         width="52" height="40" alt="whatsapp logo" />
+  </a>
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
 <!-- Snake Game Repo View -->
