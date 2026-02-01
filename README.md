@@ -3,9 +3,6 @@
 <h2 align="left">🚀 Chandermani Mishra</h2>
 
 <strong>Full-Stack Web Developer | Backend-Focused | GenAI Explorer</strong>
-
-<br><br>
-
 <table>
 <tr>
 <td width="65%" valign="top">
@@ -16,7 +13,6 @@
 🤝 Exploring **system design, scalable backends & AI-powered features**  
 💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
 ⚡ I learn by **building real projects — not just tutorials**
-
 <br>
 
 I believe **execution beats theory**.  
@@ -27,7 +23,7 @@ that’s how I sharpen my skills and create impactful tech 🚀
 
 <td width="35%" align="center">
 
-<img src="https://images.unsplash.com/photo-1581090700227-1e37b190418e"
+<img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
      width="220"
      alt="Developer illustration" />
 
