@@ -88,7 +88,7 @@ I believe execution beats theory. I grow by building, breaking, fixing, and impr
 
 🎥 Development Workflow
 <div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border: 2px solid #30363d; margin: 25px 0;">
-  <img src="" />
+  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/deepseek_mermaid_20260201_fee948.png" alt="development workflow"/>
 </div>
 
 ### ✍️ Random Dev Quote
