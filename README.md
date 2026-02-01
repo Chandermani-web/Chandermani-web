@@ -87,13 +87,6 @@ I believe execution beats theory. I grow by building, breaking, fixing, and impr
 
 📈 Current Focus
 <div align="center"> <table> <tr> <td align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" alt="Backend"> <br> <strong>Backend Systems</strong> <br> <small>Scalable APIs & Microservices</small> </td> <td align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Performance"> <br> <strong>Performance</strong> <br> <small>Web Vitals & Optimization</small> </td> <td align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="AI"> <br> <strong>Generative AI</strong> <br> <small>Development Acceleration</small> </td> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="DSA"> <br> <strong>DSA & System Design</strong> <br> <small>Technical Fundamentals</small> </td> </tr> </table> </div>
-Advancing Backend Systems — Designing scalable APIs, microservices, and database architectures
-
-Performance & Optimization — Improving web vitals, server-side rendering, and application efficiency
-
-Generative AI Integration — Leveraging AI tools to accelerate development and enhance UX
-
-DSA & System Design — Strengthening fundamentals for technical interviews and system scalability
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -104,6 +97,7 @@ DSA & System Design — Strengthening fundamentals for technical interviews and 
 [![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
