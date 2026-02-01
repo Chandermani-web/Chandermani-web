@@ -8,15 +8,25 @@ Full-Stack Web Developer | Backend-Focused | GenAI Explorer
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 20px; margin-top: 30px;"> <!-- Left side - Text content --> <div style="flex: 1; min-width: 300px; text-align: left;"> <p>🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**</p> <p>🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**</p> <p>👯 Open to **hackathons, full-stack projects & collaboration**</p> <p>🤝 Exploring **system design, scalable backends & AI-powered features**</p> <p>💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**</p> <p>⚡ I learn by **building real projects — not just tutorials**</p>
+🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
+🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
+👯 Open to **hackathons, full-stack projects & collaboration**  
+🤝 Exploring **system design, scalable backends & AI-powered features**  
+💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
+⚡ I learn by **building real projects — not just tutorials**
 
 <br>
 
-<p>I believe **execution beats theory**.<br>
-I grow by building, breaking, fixing, and improving real products —<br>
-that's how I sharpen my skills and create impactful tech 🚀</p>
+<pre align="left">I believe **execution beats theory**.  
+I grow by building, breaking, fixing, and improving real products —  
+that’s how I sharpen my skills and create impactful tech 🚀
+</pre>
 
-</div> <!-- Right side - Image --> <div style="flex: 0 0 auto; text-align: center;"> <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg" width="320" alt="Developer illustration" style="border-radius: 10px; border: 2px solid #30363d;" /> </div></div>
+<!-- <p align="right">
+  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
+      width="320"
+      alt="Developer illustration" />
+</p> -->
 
 ## 🌐 Socials:
 
