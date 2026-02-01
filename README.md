@@ -1,26 +1,33 @@
 # 💫 About Me
-<h2 align="center">🚀 Chandermani Mishra</h2> <h3 align="center">Senior Full-Stack Engineer | Backend Specialist | AI/ML Integrator</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration+%7C+Cloud-Native+Solutions;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
-🎯 Professional Focus
-<div align="center"> <table> <tr> <td align="center" width="25%"> <strong>Backend Architecture</strong><br> <small>Microservices • API Design • Database Optimization</small> </td> <td align="center" width="25%"> <strong>Full-Stack Development</strong><br> <small>React • Node.js • TypeScript • Modern Frameworks</small> </td> <td align="center" width="25%"> <strong>Cloud & DevOps</strong><br> <small>AWS • Docker • Kubernetes • CI/CD Pipelines</small> </td> <td align="center" width="25%"> <strong>AI Integration</strong><br> <small>GenAI • Machine Learning • Intelligent Systems</small> </td> </tr> </table> </div>
-</p>
 
-🔭 Current Engagements
-active_projects:
-  - type: "Production Systems"
-    focus: "Scalable backend architectures & microservices"
-    tech: ["Node.js", "TypeScript", "AWS", "PostgreSQL", "Redis"]
-  
-  - type: "AI Integration"
-    focus: "Generative AI workflows & intelligent automation"
-    tech: ["Python", "FastAPI", "OpenAI", "LangChain", "Vector DBs"]
-  
-  - type: "Performance Engineering"
-    focus: "Web vitals optimization & system scalability"
-    tech: ["Next.js", "CDN", "Caching Strategies", "Load Testing"]
-  
-  - type: "Learning & Growth"
-    focus: "Advanced DSA & distributed system patterns"
-    tech: ["System Design", "Algorithms", "Cloud Architecture"]
+<h2 align="center">🚀 Chandermani Mishra</h2>
+
+<p align="center"><strong>
+Full-Stack Web Developer | Backend-Focused | GenAI Explorer
+</strong></p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration+%7C+Cloud-Native+Solutions;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
+
+🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
+🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
+👯 Open to **hackathons, full-stack projects & collaboration**  
+🤝 Exploring **system design, scalable backends & AI-powered features**  
+💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
+⚡ I learn by **building real projects — not just tutorials**
+
+<br>
+
+I believe **execution beats theory**.  
+I grow by building, breaking, fixing, and improving real products —  
+that’s how I sharpen my skills and create impactful tech 🚀
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
+      width="320"
+      alt="Developer illustration" />
+</p>
 
 ## 🌐 Socials:
 
