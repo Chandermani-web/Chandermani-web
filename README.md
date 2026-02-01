@@ -1,12 +1,12 @@
 # 💫 About Me
 
-<h2>🚀 Chandermani Mishra</h2>
+<h2 align="center">🚀 Chandermani Mishra</h2>
 
-<strong>Full-Stack Web Developer | Backend-Focused | GenAI Explorer</strong>
+<p align="center"><strong>
+Full-Stack Web Developer | Backend-Focused | GenAI Explorer
+</strong></p>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<br>
 
 🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
 🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
@@ -15,21 +15,20 @@
 💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
 ⚡ I learn by **building real projects — not just tutorials**
 
+<br>
+
 I believe **execution beats theory**.  
 I grow by building, breaking, fixing, and improving real products —  
 that’s how I sharpen my skills and create impactful tech 🚀
 
-</td>
+<br>
 
-<td width="35%" align="center">
+<p align="center">
+  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
+      width="320"
+      alt="Developer illustration" />
+</p>
 
-<img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/pexels-ifreestock-585752.jpg"
-     width="320"
-     alt="Developer illustration" />
-
-</td>
-</tr>
-</table>
 
 
 ## 🌐 Socials:
