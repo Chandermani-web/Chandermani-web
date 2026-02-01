@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I’m Chandermani Mishra 👨‍💻<br>A passionate Full-Stack Web Developer focused on building clean, scalable, and real-world applications.<br><br>I primarily work with JavaScript, Node.js, and modern web technologies, and I enjoy turning ideas into functional products. Currently, I’m strengthening my DSA fundamentals, improving my backend skills, and exploring Generative AI to boost development productivity.<br><br>I love participating in hackathons, learning by building projects, and constantly improving my communication & problem-solving skills. My goal is to grow into a highly skilled developer and build impactful tech solutions 🚀<br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/chandermani-mishra-a25473304) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Chanderman47595) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandermanimishra91@gmail.com) 
 
@@ -90,6 +89,7 @@ DSA & System Design — Strengthening fundamentals for technical interviews and 
 [![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
