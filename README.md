@@ -1,11 +1,11 @@
 # 💫 About Me
-<h2 align="left">🚀 Chandermani Mishra</h2>
+<h2 align="center">🚀 Chandermani Mishra</h2>
 
-<p align="left"><strong>
+<p align="center"><strong>
 Full-Stack Web Developer | Backend-Focused | GenAI Explorer
 </strong></p>
 
-<p align="left"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
 
 🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
 🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
