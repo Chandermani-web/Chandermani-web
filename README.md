@@ -1,7 +1,7 @@
 # 💫 About Me
 <h2 align="left">🚀 Chandermani Mishra</h2>
 
-<p align="center"><strong>
+<p align="left"><strong>
 Full-Stack Web Developer | Backend-Focused | GenAI Explorer
 </strong></p>
 
