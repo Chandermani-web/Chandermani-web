@@ -140,12 +140,18 @@ that’s how I sharpen my skills and create impactful tech 🚀
   <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/deepseek_mermaid_20260201_fee948.png" alt="development workflow"/>
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🧠 Thought of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
+</p
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chandermani-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  ⭐ If you like my work, give a star & follow!
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
