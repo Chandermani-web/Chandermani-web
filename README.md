@@ -135,11 +135,6 @@ that’s how I sharpen my skills and create impactful tech 🚀
 📈 Current Focus
 <div align="center"> <table> <tr> <td align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" alt="Backend"> <br> <strong>Backend Systems</strong> <br> <small>Scalable APIs & Microservices</small> </td> <td align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Performance"> <br> <strong>Performance</strong> <br> <small>Web Vitals & Optimization</small> </td> <td align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="AI"> <br> <strong>Generative AI</strong> <br> <small>Development Acceleration</small> </td> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="DSA"> <br> <strong>DSA & System Design</strong> <br> <small>Technical Fundamentals</small> </td> </tr> </table> </div>
 
-🎥 Development Workflow
-<div style="background: linear-gradient(145deg, #161b22, #0d1117); padding: 25px; border-radius: 15px; border: 2px solid #30363d; margin: 25px 0;">
-  <img src="https://github.com/Chandermani-web/Chandermani-web/blob/main/deepseek_mermaid_20260201_fee948.png" alt="development workflow"/>
-</div>
-
 ## 🧠 Thought of the Day
 
 <p align="center">
@@ -154,4 +149,5 @@ that’s how I sharpen my skills and create impactful tech 🚀
 <p align="center">
   ⭐ If you like my work, give a star & follow!
 </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
