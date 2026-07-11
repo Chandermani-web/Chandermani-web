@@ -43,7 +43,7 @@ that’s how I sharpen my skills and create impactful tech 🚀
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/chandermani234/" target="_blank">
+  <a href="https://www.instagram.com/owlh.imanshu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
          width="52" height="40" alt="instagram logo" />
   </a>
