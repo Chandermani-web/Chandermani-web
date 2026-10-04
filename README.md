@@ -1,153 +1,240 @@
-# 💫 About Me
-<h2 align="center">🚀 Chandermani Mishra</h2>
-
-<p align="center"><strong>
-Full-Stack Web Developer | Backend-Focused | GenAI Explorer
-</strong></p>
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Systems+%7C+Backend+Architecture+Expert;Generative+AI+Integration;Performance+Optimization+%7C+System+Design+Specialist" alt="Typing SVG" /> </p>
-
-🔭 Building real-world full-stack applications using **JavaScript, Node.js & modern web technologies**  
-🌱 Strengthening **DSA fundamentals, backend architecture**, and exploring **Generative AI**  
-👯 Open to **hackathons, full-stack projects & collaboration**  
-🤝 Exploring **system design, scalable backends & AI-powered features**  
-💬 Ask me about **JavaScript, Node.js, APIs, Databases & GenAI workflows**  
-⚡ I learn by **building real projects — not just tutorials**
-
-<br>
-
-<pre align="left">I believe **execution beats theory**.  
-I grow by building, breaking, fixing, and improving real products —  
-that’s how I sharpen my skills and create impactful tech 🚀
-</pre>
-
-## 🌐 Socials:
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <!-- LinkedIn -->
-  <a href="http://www.linkedin.com/in/chandermani-mishra-a25473304" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="52" height="40" alt="linkedin logo" />
-  </a>
 
-  <!-- Twitter / X -->
-  <a href="https://x.com/Chandermani47595" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-         width="52" height="40" alt="twitter logo" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Chandermani%20Mishra&fontSize=54&fontColor=00ffd5&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20System%20Design%20Enthusiast&descAlignY=64&descSize=17" width="100%" alt="header"/>
 
-  <!-- Gmail -->
-  <a href="mailto:chandermanimishra91@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="52" height="40" alt="gmail logo" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FFD5&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+full-stack+dev+with+a+backend+soul;%24+building+%E2%86%92+scalable+APIs+%2B+RAG+pipelines;%24+stack+%E2%86%92+Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;%24+mission+%E2%86%92+ship+fast%2C+scale+smart%2C+learn+loud+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/owlh.imanshu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-         width="52" height="40" alt="instagram logo" />
-  </a>
+<br/><br/>
 
-  <!-- WhatsApp -->
-  <a href="https://wa.me/918607653657" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-         width="52" height="40" alt="whatsapp logo" />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=Chandermani-web&label=PROFILE%20VIEWS&color=00ffd5&style=for-the-badge&labelColor=0f2027)
+![Followers](https://img.shields.io/github/followers/Chandermani-web?label=FOLLOWERS&style=for-the-badge&color=00ffd5&labelColor=0f2027)
+![Stars](https://img.shields.io/github/stars/Chandermani-web?label=STARS&style=for-the-badge&color=00ffd5&labelColor=0f2027)
+
 </div>
-
-
-[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 💻 Tech Stack:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chandermani-web&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chandermani-web&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🖥️ `~/about.sh`
 
-📈 Current Focus
-<div align="center"> <table> <tr> <td align="center"> <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" alt="Backend"> <br> <strong>Backend Systems</strong> <br> <small>Scalable APIs & Microservices</small> </td> <td align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" alt="Performance"> <br> <strong>Performance</strong> <br> <small>Web Vitals & Optimization</small> </td> <td align="center"> <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100" alt="AI"> <br> <strong>Generative AI</strong> <br> <small>Development Acceleration</small> </td> <td align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" alt="DSA"> <br> <strong>DSA & System Design</strong> <br> <small>Technical Fundamentals</small> </td> </tr> </table> </div>
+```bash
+$ cat chandermani.json
+```
 
-## 🧠 Thought of the Day
+```json
+{
+  "name": "Chandermani Mishra",
+  "role": "Full-Stack Developer · Backend-Focused · GenAI Explorer",
+  "languages": ["Java", "JavaScript", "SQL"],
+  "backend": ["Spring Boot", "Hibernate", "Node.js", "Express.js", "Microservices", "API Gateway"],
+  "frontend": ["React.js", "Redux", "Tailwind CSS", "HTML", "CSS"],
+  "genAI": ["LangChain", "LangGraph", "RAG", "LLM APIs"],
+  "realtime": ["WebSocket", "WebRTC"],
+  "data": ["PostgreSQL", "MongoDB", "Redis", "Caching"],
+  "devOps": ["Docker", "AWS", "CI/CD", "Git"],
+  "cs_core": ["DSA", "OOP", "DBMS", "OS", "Computer Networks"],
+  "philosophy": "Execution beats theory. Build it, break it, fix it, ship it.",
+  "currentlyLearning": ["System Design", "Distributed Systems", "Agentic AI Workflows"],
+  "openTo": ["Hackathons", "Open Source", "Full-Stack Projects", "Collaboration"],
+  "funFact": "I learn by building real products, not by collecting tutorials. 🛠️"
+}
+```
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia"/>
-</p
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Chandermani-web&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-[![](https://visitcount.itsvg.in/api?id=Chandermani-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  ⭐ If you like my work, give a star & follow!
+## ⚡ What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ Backend & Systems
+Designing **REST APIs**, **microservices**, and **API gateways** with **Spring Boot** and **Node/Express** — with solid auth, caching strategies, and clean data models behind them.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 GenAI Engineering
+Building **RAG pipelines** and **agent workflows** with **LangChain** and **LangGraph**, wiring **LLM APIs** into real products — not just demos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Real-Time Apps
+Shipping live experiences with **WebSocket** and **WebRTC** — chat, presence, streaming, and peer-to-peer features.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Delivery
+Containerizing with **Docker**, deploying on **AWS**, and automating with **CI/CD** so code goes from commit to production confidently.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Arsenal
+
+### 🔹 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py&perline=10" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔹 Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,nestjs,fastapi&perline=10" />
+</p>
+
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css&perline=10" />
+</p>
+
+### 🔹 Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&perline=10" />
+</p>
+
+### 🔹 DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux&perline=10" />
+</p>
+
+### 🔹 GenAI, Real-Time & Architecture
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 How I Think About Architecture
+
+> A peek at the kind of systems I love designing: an AI-powered, microservice-based backend.
+
+```mermaid
+flowchart LR
+    C([🌐 React Client]) -->|HTTPS / WebSocket| G{{API Gateway}}
+    G --> A[🔐 Auth Service<br/>JWT]
+    G --> U[👤 User Service<br/>Spring Boot]
+    G --> R[🤖 AI / RAG Service<br/>LangChain + LangGraph]
+    U --> P[(PostgreSQL)]
+    A --> K[(Redis Cache)]
+    R --> V[(Vector Store)]
+    R --> L[[LLM API]]
+    G --> M[(MongoDB)]
+    subgraph Platform
+      D[🐳 Docker] --> W[☁️ AWS] --> CI[⚙️ CI/CD]
+    end
+```
+
+---
+
+## 🔥 Featured Projects
+
+<!-- 👇 Replace each block with your real projects: name, one-line pitch, stack, and links -->
+
+| Project | What it does | Stack | Links |
+|---|---|---|---|
+| 🧩 **Project One** | One-line pitch: the problem it solves and for whom | `Spring Boot` `PostgreSQL` `Redis` | [Repo](#) · [Live](#) |
+| 🤖 **Project Two (GenAI)** | RAG-based assistant that answers from your own documents | `LangChain` `LangGraph` `React` | [Repo](#) · [Live](#) |
+| 💬 **Project Three (Real-time)** | Live chat / video using WebSocket + WebRTC | `Node.js` `WebRTC` `Socket` | [Repo](#) · [Live](#) |
+
+---
+
+## 🎯 Current Missions
+
+```diff
++ Building production-grade backends with Spring Boot & Node.js
++ Designing RAG + agentic workflows with LangChain & LangGraph
++ Sharpening DSA and System Design every single week
++ Exploring performance: caching, indexing, and API optimization
+- Tutorial hell (retired permanently)
+```
+
+<div align="center">
+
+| 🏗️ Backend Systems | ⚡ Performance | 🤖 Generative AI | 🧮 DSA & System Design |
+|:---:|:---:|:---:|:---:|
+| Scalable APIs & Microservices | Caching & Optimization | Agents, RAG, LLM Apps | Fundamentals that scale |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Chandermani-web&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandermani-web&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chandermani-web&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!--
+  To enable: add the Platane/snk GitHub Action to your profile repo
+  (see https://github.com/Platane/snk) and it will generate this file on a schedule.
+-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm open to **hackathons**, **full-stack projects**, **open-source**, and **collaboration**.
+Ask me about **Java, Spring Boot, Node.js, APIs, databases, system design, and GenAI workflows.**
+
+<br/>
+
+<a href="http://www.linkedin.com/in/chandermani-mishra-a25473304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Chandermani47595"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:chandermanimishra91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/918607653657"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.instagram.com/owlh.imanshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br/>
+
+**⭐ If something here inspired you, drop a star and follow, and let's ship something great.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
