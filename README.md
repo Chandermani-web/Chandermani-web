@@ -1,39 +1,40 @@
 <div align="center">
 
-<img src="./hero.svg" width="100%" alt="Chandermani Mishra - Build. Beyond."/>
+<img src="./assets/hero.svg" width="100%" alt="Chandermani Mishra - Build. Beyond."/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandermani-web&label=VIEWS&color=2f7bff&style=for-the-badge&labelColor=050b1f)
 ![Followers](https://img.shields.io/github/followers/Chandermani-web?style=for-the-badge&color=ff3b30&labelColor=050b1f)
 ![Stars](https://img.shields.io/github/stars/Chandermani-web?style=for-the-badge&color=00e5ff&labelColor=050b1f)
+![SIH 2025](https://img.shields.io/badge/SIH%202025-NATIONAL%20WINNER-ffb800?style=for-the-badge&labelColor=050b1f)
 
-<img src="./panels.svg" width="100%" alt="Ideas built different / More than a job title"/>
+<img src="./assets/panels.svg" width="100%" alt="Ideas built different / More than a job title"/>
 
-<img src="./engine.svg" width="100%" alt="Tools change. Curiosity doesn't."/>
+<img src="./assets/engine.svg" width="100%" alt="3D tool stack: Tools change. Curiosity doesn't."/>
 
-<img src="./credentials.svg" width="100%" alt="Real work. Real impact."/>
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050b1f&title_color=2f7bff&icon_color=ff3b30" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=2f7bff" />
-
-<img src="https://streak-stats.demolab.com?user=Chandermani-web&theme=tokyonight&hide_border=true&background=050b1f" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandermani-web&theme=tokyo-night&hide_border=true&area=true&bg_color=050b1f&color=2f7bff&line=ff3b30&point=00e5ff" width="100%" />
+<img src="./assets/credentials.svg" width="100%" alt="Real work. Real impact."/>
 
 </div>
 
 ---
 
-## 🔥 Most-Starred / Featured Repositories
+## 🚀 Featured Projects
 
-<!-- 👇 Replace YOUR-REPO-N with your real repository names -->
 <div align="center">
-<a href="https://github.com/Chandermani-web/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=2f7bff" width="48%"/></a>
-<a href="https://github.com/Chandermani-web/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=ff3b30" width="48%"/></a>
-<a href="https://github.com/Chandermani-web/YOUR-REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=00e5ff" width="48%"/></a>
-<a href="https://github.com/Chandermani-web/YOUR-REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=a855f7" width="48%"/></a>
+<img src="./assets/projects.svg" width="100%" alt="CM.AI and Lingolive"/>
+
+<a href="https://cmai-self.vercel.app"><img src="https://img.shields.io/badge/CM.AI-LIVE%20DEMO-2f7bff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050b1f"/></a>
+<a href="https://lingolive.onrender.com"><img src="https://img.shields.io/badge/LINGOLIVE-LIVE%20DEMO-00e5ff?style=for-the-badge&logo=webrtc&logoColor=white&labelColor=050b1f"/></a>
 </div>
+
+---
+
+## 💼 Experience & Education
+
+| | |
+|---|---|
+| **Frontend Developer Intern** · Beritrave Technology Pvt Ltd <br/> `Jun 2026 – Sep 2026` · Remote, Indore | Built **4 React.js admin workflows** (user/driver management, KYC verification, availability tracking, profile admin) and integrated **REST APIs** with Node.js services across all 4 modules. Designed reusable **Tailwind** components in **5 categories** (tables, forms, filters, modals, status indicators). Contributed to **6 projects** and independently built **3**. |
+| **B.Tech, Computer Science Engineering** <br/> `2023 – 2027` · Jagannath University | CGPA **7.8 / 10** · strong foundation in DSA, OOP and DBMS |
+| 🏆 **National Level Winner, Smart India Hackathon 2025** | Won among **500+ teams** with a **UGC–AICTE approval automation platform**: role-based access control, document validation and real-time status tracking. |
 
 ---
 
@@ -41,24 +42,24 @@
 
 ```mermaid
 flowchart LR
-    C([🌐 React Client]) -->|HTTPS / WebSocket| G{{API Gateway}}
-    G --> A[🔐 Auth Service<br/>JWT]
-    G --> U[👤 User Service<br/>Spring Boot]
-    G --> R[🤖 AI / RAG Service<br/>LangChain + LangGraph]
-    U --> P[(PostgreSQL)]
-    A --> K[(Redis Cache)]
-    R --> V[(Vector Store)]
-    R --> L[[LLM API]]
+    C([🌐 React Client]) -->|HTTPS / WebSocket| G{{Node + Express API}}
+    G --> A[🔐 Auth<br/>JWT / Firebase]
+    G --> R[🤖 AI Service<br/>LangChain + LangGraph]
+    G --> S[📡 Socket.IO<br/>WebRTC signaling]
+    A --> K[(Redis<br/>sessions + cache)]
     G --> M[(MongoDB)]
+    G --> P[(PostgreSQL)]
+    R --> V[(ChromaDB)]
+    R --> L[[LLM API]]
 ```
 
 ## 🎯 Current Missions
 
 ```diff
-+ Building production-grade backends with Spring Boot & Node.js
++ Shipping full-stack products with React, Node.js & MongoDB
 + Designing RAG + agentic workflows with LangChain & LangGraph
 + Sharpening DSA and System Design every single week
-+ Exploring performance: caching, indexing, and API optimization
++ Exploring performance: caching, rate limiting, indexing
 - Tutorial hell (retired permanently)
 ```
 
@@ -66,15 +67,20 @@ flowchart LR
 
 <div align="center">
 
-<img src="./contact.svg" width="100%" alt="Let's build something great."/>
+<img src="./assets/contact.svg" width="100%" alt="Let's build something great."/>
 
-<a href="http://www.linkedin.com/in/chandermani-mishra-a25473304"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/Chandermani47595"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/chandermanimishra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Chandermani-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:chandermanimishra91@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/918607653657"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.instagram.com/owlh.imanshu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/Chandermani47595"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 <br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050b1f&title_color=2f7bff&icon_color=ff3b30" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=2f7bff" />
+
+<img src="https://streak-stats.demolab.com?user=Chandermani-web&theme=tokyonight&hide_border=true&background=050b1f" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake-dark.svg" />
