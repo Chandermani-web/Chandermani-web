@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Chandermani Mishra - Full-Stack Engineer"/>
+<a><img src="./assets/hero.svg" width="100%" alt="Chandermani Mishra - Full-Stack Engineer"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandermani-web&label=VIEWS&color=14b8ff&style=for-the-badge&labelColor=020a18)
 ![SIH 2025](https://img.shields.io/badge/SIH%202025-NATIONAL%20WINNER-ffb347?style=for-the-badge&labelColor=020a18)
 
-<img src="./assets/panels.svg" width="100%" alt="Develop, debug, deploy. Built for the cloud."/>
+<a><img src="./assets/panels.svg" width="100%" alt="Develop, debug, deploy. Built for the cloud."/></a>
 
-<img src="./assets/engine.svg" width="100%" alt="Tool stack"/>
+<a><img src="./assets/engine.svg" width="100%" alt="Tool stack"/></a>
 
-<img src="./assets/credentials.svg" width="100%" alt="Real work. Real impact."/>
+<a><img src="./assets/credentials.svg" width="100%" alt="Real work. Real impact."/></a>
 
-<img src="./assets/missions.svg" width="100%" alt="Current missions"/>
+<a><img src="./assets/missions.svg" width="100%" alt="Current missions"/></a>
 
-<img src="./assets/architecture.svg" width="100%" alt="How I think about architecture"/>
+<a><img src="./assets/architecture.svg" width="100%" alt="How I think about architecture"/></a>
 
-<img src="./assets/experience.svg" width="100%" alt="Experience and education"/>
+<a><img src="./assets/experience.svg" width="100%" alt="Experience and education"/></a>
 
-<img src="./assets/contact.svg" width="100%" alt="Let's build something great."/>
+<a><img src="./assets/contact.svg" width="100%" alt="Let's build something great."/></a>
 
 <a href="https://www.linkedin.com/in/chandermanimishra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Chandermani-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
