@@ -1,77 +1,102 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Chandermani%20Mishra&fontSize=54&fontColor=00ffd5&animation=fadeIn&fontAlignY=42&desc=Backend%20Engineer%20%E2%80%A2%20GenAI%20Builder%20%E2%80%A2%20System%20Design%20Enthusiast&descAlignY=64&descSize=17" width="100%" alt="header"/>
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FFD5&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+full-stack+dev+with+a+backend+soul;%24+building+%E2%86%92+scalable+APIs+%2B+RAG+pipelines;%24+stack+%E2%86%92+Java+%7C+Spring+Boot+%7C+Node.js+%7C+React;%24+mission+%E2%86%92+ship+fast%2C+scale+smart%2C+learn+loud+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-<br/><br/>
+<sub>`FULL-STACK ENGINEER` &nbsp;·&nbsp; `BACKEND-FOCUSED` &nbsp;·&nbsp; `GENAI BUILDER`</sub>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chandermani-web&label=PROFILE%20VIEWS&color=00ffd5&style=for-the-badge&labelColor=0f2027)
-![Followers](https://img.shields.io/github/followers/Chandermani-web?label=FOLLOWERS&style=for-the-badge&color=00ffd5&labelColor=0f2027)
-![Stars](https://img.shields.io/github/stars/Chandermani-web?label=STARS&style=for-the-badge&color=00ffd5&labelColor=0f2027)
+<br/>
+
+### 👋 Hi there, I'm
+
+# CHANDERMANI<br/>MISHRA
+
+### 🔹 **BUILD. BEYOND.**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=3D8BFF&vCenter=true&width=460&lines=Building+scalable+backends+%26+AI+products;Spring+Boot+%7C+Node.js+%7C+React+%7C+LangChain;Execution+beats+theory.+Ship+it.+%F0%9F%9A%80" alt="typing"/>
+
+<br/>
+
+![Open to collab](https://img.shields.io/badge/OPEN%20TO-COLLAB-1e6fff?style=for-the-badge&labelColor=050b1f)
+![Stack](https://img.shields.io/badge/BACKEND-GENAI-ff3b30?style=for-the-badge&labelColor=050b1f)
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="./5bf29f22-9dc3-4a92-9ed0-0ab79ab5039f.png" width="320" alt="Chandermani Mishra"/>
+
+<br/>
+
+`▰▰▰ ENGINEER / BUILDER`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chandermani-web&label=VIEWS&color=1e6fff&style=flat-square&labelColor=050b1f)
+![Followers](https://img.shields.io/github/followers/Chandermani-web?style=flat-square&color=1e6fff&labelColor=050b1f)
+![Stars](https://img.shields.io/github/stars/Chandermani-web?style=flat-square&color=ff3b30&labelColor=050b1f)
 
 </div>
 
 ---
 
-## 🖥️ `~/about.sh`
-
-```bash
-$ cat chandermani.json
-```
-
-```json
-{
-  "name": "Chandermani Mishra",
-  "role": "Full-Stack Developer · Backend-Focused · GenAI Explorer",
-  "languages": ["Java", "JavaScript", "SQL"],
-  "backend": ["Spring Boot", "Hibernate", "Node.js", "Express.js", "Microservices", "API Gateway"],
-  "frontend": ["React.js", "Redux", "Tailwind CSS", "HTML", "CSS"],
-  "genAI": ["LangChain", "LangGraph", "RAG", "LLM APIs"],
-  "realtime": ["WebSocket", "WebRTC"],
-  "data": ["PostgreSQL", "MongoDB", "Redis", "Caching"],
-  "devOps": ["Docker", "AWS", "CI/CD", "Git"],
-  "cs_core": ["DSA", "OOP", "DBMS", "OS", "Computer Networks"],
-  "philosophy": "Execution beats theory. Build it, break it, fix it, ship it.",
-  "currentlyLearning": ["System Design", "Distributed Systems", "Agentic AI Workflows"],
-  "openTo": ["Hackathons", "Open Source", "Full-Stack Projects", "Collaboration"],
-  "funFact": "I learn by building real products, not by collecting tutorials. 🛠️"
-}
-```
-
----
-
-## ⚡ What I Do
-
+<!-- ═══════════════════════ 01 + 02 ═══════════════════════ -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Backend & Systems
-Designing **REST APIs**, **microservices**, and **API gateways** with **Spring Boot** and **Node/Express** — with solid auth, caching strategies, and clean data models behind them.
+<sub>`01 / FROM THOUGHT TO THING`</sub>
+
+## IDEAS. BUILT DIFFERENT.
+
+```js
+// github.com / Chandermani-web / build
+> turn_curiosity_into_impact()
+
+  [01 CREATE] ──▶ [02 ENGINEER] ──▶ [03 SHIP]
+```
+
+**🌐 Modern Web & App Dev**
+<br/><sub>From first interaction to production.</sub>
+
+**☁️ AI & Cloud Integration**
+<br/><sub>Scalable systems. Useful intelligence.</sub>
+
+**🏗️ Backend & Microservices**
+<br/><sub>Clean APIs, solid auth, smart caching.</sub>
+
+**🤝 Community & Collaboration**
+<br/><sub>Hackathons, open source, learning in public.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 GenAI Engineering
-Building **RAG pipelines** and **agent workflows** with **LangChain** and **LangGraph**, wiring **LLM APIs** into real products — not just demos.
+<sub>`02 / LIFE OUTSIDE THE COMMIT`</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+## MORE THAN A JOB TITLE.
 
-### 🔴 Real-Time Apps
-Shipping live experiences with **WebSocket** and **WebRTC** — chat, presence, streaming, and peer-to-peer features.
+```python
+problem.solve()
 
-</td>
-<td width="50%" valign="top">
+approach   = "Understand → simplify"
+complexity = "Think before you type"
+result     = "All tests passed ✅"
+```
 
-### ☁️ Cloud & Delivery
-Containerizing with **Docker**, deploying on **AWS**, and automating with **CI/CD** so code goes from commit to production confidently.
+### 🧮 Competitive Programming & DSA
+<sub>`CHASE THE ELEGANT SOLUTION.`</sub>
+
+For the joy of a problem, solved.
+
+### 🧠 Currently Learning
+`System Design` · `Distributed Systems` · `Agentic AI Workflows`
 
 </td>
 </tr>
@@ -79,52 +104,59 @@ Containerizing with **Docker**, deploying on **AWS**, and automating with **CI/C
 
 ---
 
-## 🧰 Tech Arsenal
+<!-- ═══════════════════════ 03 ENGINE ROOM ═══════════════════════ -->
+<sub>`03 / MY ENGINE ROOM`</sub>
 
-### 🔹 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py&perline=10" />
-</p>
+## TOOLS CHANGE. CURIOSITY DOESN'T.
 
-### 🔹 Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,nestjs,fastapi&perline=10" />
-</p>
+<sub>`LANGUAGES / SYSTEMS / INTELLIGENCE`</sub>
 
-### 🔹 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css&perline=10" />
-</p>
+<table>
+<tr>
+<td width="22%"><b>01 · LANGUAGES</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,py&perline=10" />
+</td>
+</tr>
+<tr>
+<td><b>02 · FRONTEND & RUNTIME</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,html,css,nodejs&perline=10" />
+</td>
+</tr>
+<tr>
+<td><b>03 · BACKEND</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,express,nestjs,fastapi&perline=10" />
+</td>
+</tr>
+<tr>
+<td><b>04 · DATA & CACHE</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&perline=10" />
+</td>
+</tr>
+<tr>
+<td><b>05 · CLOUD & DEVOPS</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux&perline=10" />
+</td>
+</tr>
+<tr>
+<td><b>06 · AI & REAL-TIME</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20APIs-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</td>
+</tr>
+</table>
 
-### 🔹 Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&perline=10" />
-</p>
-
-### 🔹 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,git,linux&perline=10" />
-</p>
-
-### 🔹 GenAI, Real-Time & Architecture
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20APIs-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
-</p>
-
----
-
-## 🧠 How I Think About Architecture
-
-> A peek at the kind of systems I love designing: an AI-powered, microservice-based backend.
+### 🧠 How I think about architecture
 
 ```mermaid
 flowchart LR
@@ -137,17 +169,66 @@ flowchart LR
     R --> V[(Vector Store)]
     R --> L[[LLM API]]
     G --> M[(MongoDB)]
-    subgraph Platform
-      D[🐳 Docker] --> W[☁️ AWS] --> CI[⚙️ CI/CD]
-    end
 ```
 
 ---
 
+<!-- ═══════════════════════ 04 CREDENTIALS ═══════════════════════ -->
+<sub>`04 / BUILDER CREDENTIALS`</sub>
+
+## REAL WORK. REAL IMPACT.
+
+<table>
+<tr>
+<td width="34%" align="center" valign="top">
+
+<sub>`05 / BUILDER PASS`</sub>
+
+<img src="./assets/profile.png" width="230" alt="Builder pass"/>
+
+### CHANDERMANI MISHRA
+<sub>`INDIA · INDEPENDENT CREATOR`</sub>
+
+`▌▌▎▌▎▌▌▎▌▌▎▌▎▌▌▎▌`
+
+**THE HUMAN BEHIND THE CODE.**
+
+</td>
+<td width="66%" valign="top">
+
+<sub>`PUBLIC SNAPSHOT`</sub>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=050b1f&title_color=3d8bff&icon_color=ff3b30" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=050b1f&title_color=3d8bff" />
+
+<sub>`MOST-STARRED / PUBLIC REPOSITORIES`</sub>
+
+<!-- 👇 Replace repo=... with your real repository names -->
+<a href="https://github.com/Chandermani-web/YOUR-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=050b1f" width="48%"/></a>
+<a href="https://github.com/Chandermani-web/YOUR-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=050b1f" width="48%"/></a>
+<a href="https://github.com/Chandermani-web/YOUR-REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true&bg_color=050b1f" width="48%"/></a>
+<a href="https://github.com/Chandermani-web/YOUR-REPO-4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chandermani-web&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true&bg_color=050b1f" width="48%"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chandermani-web&theme=tokyonight&hide_border=true&background=050b1f" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandermani-web&theme=tokyo-night&hide_border=true&area=true&bg_color=050b1f" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chandermani-web&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 ## 🔥 Featured Projects
 
-<!-- 👇 Replace each block with your real projects: name, one-line pitch, stack, and links -->
-
+<!-- 👇 Replace with your real projects -->
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | 🧩 **Project One** | One-line pitch: the problem it solves and for whom | `Spring Boot` `PostgreSQL` `Redis` | [Repo](#) · [Live](#) |
@@ -166,58 +247,17 @@ flowchart LR
 - Tutorial hell (retired permanently)
 ```
 
-<div align="center">
-
-| 🏗️ Backend Systems | ⚡ Performance | 🤖 Generative AI | 🧮 DSA & System Design |
-|:---:|:---:|:---:|:---:|
-| Scalable APIs & Microservices | Caching & Optimization | Agents, RAG, LLM Apps | Fundamentals that scale |
-
-</div>
-
 ---
 
-## 📊 GitHub Analytics
-
+<!-- ═══════════════════════ 06 CONTACT ═══════════════════════ -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chandermani-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandermani-web&layout=compact&theme=tokyonight&hide_border=true" />
+<sub>`06 / START A CONVERSATION`</sub>
 
-<img src="https://streak-stats.demolab.com?user=Chandermani-web&theme=tokyonight&hide_border=true" />
+## LET'S BUILD SOMETHING GREAT.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandermani-web&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandermani-web&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  To enable: add the Platane/snk GitHub Action to your profile repo
-  (see https://github.com/Platane/snk) and it will generate this file on a schedule.
--->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-I'm open to **hackathons**, **full-stack projects**, **open-source**, and **collaboration**.
-Ask me about **Java, Spring Boot, Node.js, APIs, databases, system design, and GenAI workflows.**
+Ideas. Opportunities. Your next move.<br/>
+Open to **hackathons**, **full-stack projects**, **open source** and **collaboration**.
 
 <br/>
 
@@ -229,7 +269,10 @@ Ask me about **Java, Spring Boot, Node.js, APIs, databases, system design, and G
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Chandermani-web/Chandermani-web/output/github-snake.svg" />
+</picture>
 
 <br/>
 
@@ -237,4 +280,4 @@ Ask me about **Java, Spring Boot, Node.js, APIs, databases, system design, and G
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050b1f,50:0a1a3f,100:050b1f&height=120&section=footer" width="100%" alt="footer"/>
