@@ -9,7 +9,7 @@
 
 <img src="./assets/panels.svg" width="100%" alt="Ideas built different / More than a job title"/>
 
-<img src="./assets/engine.svg" width="100%" alt="3D tool stack: Tools change. Curiosity doesn't."/>
+<img src="./assets/engine.svg" width="100%" alt="HUD tool stack: Tools change. Curiosity does not."/>
 
 <img src="./assets/credentials.svg" width="100%" alt="Real work. Real impact."/>
 
